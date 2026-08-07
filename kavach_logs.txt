@@ -1,0 +1,438 @@
+[2026-08-07 06:17:17.566988] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063637.57, 'altitude_km': 397.23, 'temperature_c': 18.74, 'battery_percent': 91.42}
+[2026-08-07 06:17:19.572863] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063639.57, 'altitude_km': 392.13, 'temperature_c': 17.45, 'battery_percent': 99.34}
+[2026-08-07 06:17:21.578855] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063641.58, 'altitude_km': 402.42, 'temperature_c': -28.54, 'battery_percent': 86.14}
+[2026-08-07 06:17:21.579511] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:23.585222] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063643.58, 'altitude_km': 391.8, 'temperature_c': 78.31, 'battery_percent': 97.6}
+[2026-08-07 06:17:25.591754] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063645.59, 'altitude_km': 398.53, 'temperature_c': -14.32, 'battery_percent': 99.58}
+[2026-08-07 06:17:27.596650] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063647.6, 'altitude_km': 397.43, 'temperature_c': 47.32, 'battery_percent': 88.47}
+[2026-08-07 06:17:27.596902] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:29.603101] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063649.6, 'altitude_km': 409.07, 'temperature_c': -29.46, 'battery_percent': 96.5}
+[2026-08-07 06:17:31.608972] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063651.61, 'altitude_km': 401.08, 'temperature_c': 55.92, 'battery_percent': 99.56}
+[2026-08-07 06:17:33.611589] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063653.61, 'altitude_km': 409.39, 'temperature_c': -13.34, 'battery_percent': 88.45}
+[2026-08-07 06:17:33.612374] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:35.618012] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063655.62, 'altitude_km': 406.93, 'temperature_c': -49.84, 'battery_percent': 92.99}
+[2026-08-07 06:17:37.621365] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063657.62, 'altitude_km': 397.79, 'temperature_c': -45.88, 'battery_percent': 88.95}
+[2026-08-07 06:17:37.621783] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:39.625948] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063659.62, 'altitude_km': 397.05, 'temperature_c': 72.7, 'battery_percent': 87.68}
+[2026-08-07 06:17:39.626486] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:41.631839] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063661.63, 'altitude_km': 402.27, 'temperature_c': -34.53, 'battery_percent': 85.08}
+[2026-08-07 06:17:41.632395] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:43.636291] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063663.64, 'altitude_km': 397.25, 'temperature_c': -31.7, 'battery_percent': 90.38}
+[2026-08-07 06:17:45.640234] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063665.64, 'altitude_km': 395.58, 'temperature_c': -13.08, 'battery_percent': 90.29}
+[2026-08-07 06:17:47.642207] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063667.64, 'altitude_km': 392.72, 'temperature_c': -16.56, 'battery_percent': 97.09}
+[2026-08-07 06:17:49.644277] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063669.64, 'altitude_km': 394.22, 'temperature_c': 54.58, 'battery_percent': 89.49}
+[2026-08-07 06:17:49.644650] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:51.649870] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063671.65, 'altitude_km': 396.25, 'temperature_c': 41.68, 'battery_percent': 92.5}
+[2026-08-07 06:17:53.653576] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063673.65, 'altitude_km': 390.61, 'temperature_c': 67.19, 'battery_percent': 91.81}
+[2026-08-07 06:17:55.656693] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063675.66, 'altitude_km': 403.82, 'temperature_c': 37.77, 'battery_percent': 85.5}
+[2026-08-07 06:17:55.657305] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:17:57.659001] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063677.66, 'altitude_km': 394.32, 'temperature_c': 21.24, 'battery_percent': 99.02}
+[2026-08-07 06:17:59.665417] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063679.66, 'altitude_km': 395.33, 'temperature_c': 6.01, 'battery_percent': 98.08}
+[2026-08-07 06:18:01.670475] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063681.67, 'altitude_km': 399.28, 'temperature_c': -16.1, 'battery_percent': 98.42}
+[2026-08-07 06:18:03.675357] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063683.67, 'altitude_km': 391.11, 'temperature_c': -18.76, 'battery_percent': 86.24}
+[2026-08-07 06:18:03.676041] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:05.681094] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063685.68, 'altitude_km': 407.32, 'temperature_c': -33.3, 'battery_percent': 87.43}
+[2026-08-07 06:18:05.681767] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:07.684326] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063687.68, 'altitude_km': 400.34, 'temperature_c': 0.77, 'battery_percent': 87.45}
+[2026-08-07 06:18:07.685273] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:09.687109] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063689.69, 'altitude_km': 400.39, 'temperature_c': 1.39, 'battery_percent': 91.52}
+[2026-08-07 06:18:11.690619] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063691.69, 'altitude_km': 397.82, 'temperature_c': 39.79, 'battery_percent': 92.18}
+[2026-08-07 06:18:13.696876] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063693.7, 'altitude_km': 403.29, 'temperature_c': 76.27, 'battery_percent': 96.8}
+[2026-08-07 06:18:15.699738] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063695.7, 'altitude_km': 390.71, 'temperature_c': 52.89, 'battery_percent': 97.15}
+[2026-08-07 06:18:17.704425] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063697.7, 'altitude_km': 396.95, 'temperature_c': 11.71, 'battery_percent': 85.44}
+[2026-08-07 06:18:17.705092] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:19.707925] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063699.71, 'altitude_km': 399.55, 'temperature_c': -18.07, 'battery_percent': 87.97}
+[2026-08-07 06:18:19.708687] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:21.714166] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063701.71, 'altitude_km': 404.46, 'temperature_c': -27.46, 'battery_percent': 88.12}
+[2026-08-07 06:18:21.715159] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:23.720480] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063703.72, 'altitude_km': 397.54, 'temperature_c': 49.69, 'battery_percent': 92.02}
+[2026-08-07 06:18:25.724666] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063705.72, 'altitude_km': 393.02, 'temperature_c': 36.21, 'battery_percent': 90.06}
+[2026-08-07 06:18:27.727303] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063707.73, 'altitude_km': 402.07, 'temperature_c': 35.51, 'battery_percent': 90.27}
+[2026-08-07 06:18:29.733500] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063709.73, 'altitude_km': 401.66, 'temperature_c': 63.47, 'battery_percent': 98.57}
+[2026-08-07 06:18:31.739752] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063711.74, 'altitude_km': 398.0, 'temperature_c': 71.79, 'battery_percent': 87.07}
+[2026-08-07 06:18:31.740398] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:33.743233] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063713.74, 'altitude_km': 404.43, 'temperature_c': 60.54, 'battery_percent': 87.78}
+[2026-08-07 06:18:33.743902] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:35.746721] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063715.75, 'altitude_km': 398.2, 'temperature_c': -18.32, 'battery_percent': 90.26}
+[2026-08-07 06:18:37.752916] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063717.75, 'altitude_km': 398.58, 'temperature_c': -17.16, 'battery_percent': 96.05}
+[2026-08-07 06:18:39.757838] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063719.76, 'altitude_km': 399.64, 'temperature_c': -7.88, 'battery_percent': 87.55}
+[2026-08-07 06:18:39.758724] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:41.761874] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063721.76, 'altitude_km': 407.0, 'temperature_c': 20.21, 'battery_percent': 99.0}
+[2026-08-07 06:18:43.766580] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063723.76, 'altitude_km': 401.66, 'temperature_c': 15.62, 'battery_percent': 87.31}
+[2026-08-07 06:18:43.767360] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:45.768582] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063725.77, 'altitude_km': 407.07, 'temperature_c': 37.99, 'battery_percent': 87.74}
+[2026-08-07 06:18:45.769412] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:47.774953] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063727.77, 'altitude_km': 408.77, 'temperature_c': 60.79, 'battery_percent': 85.64}
+[2026-08-07 06:18:47.775732] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:49.780260] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063729.78, 'altitude_km': 391.31, 'temperature_c': -31.79, 'battery_percent': 98.29}
+[2026-08-07 06:18:51.786539] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063731.78, 'altitude_km': 390.44, 'temperature_c': 4.76, 'battery_percent': 88.56}
+[2026-08-07 06:18:51.787233] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:53.792080] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063733.79, 'altitude_km': 396.85, 'temperature_c': 21.54, 'battery_percent': 91.43}
+[2026-08-07 06:18:55.795337] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063735.79, 'altitude_km': 396.68, 'temperature_c': -24.33, 'battery_percent': 91.73}
+[2026-08-07 06:18:57.800882] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063737.8, 'altitude_km': 407.77, 'temperature_c': 29.29, 'battery_percent': 85.97}
+[2026-08-07 06:18:57.801879] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:18:59.806450] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063739.81, 'altitude_km': 395.29, 'temperature_c': 68.54, 'battery_percent': 88.96}
+[2026-08-07 06:18:59.806997] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:01.809728] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063741.81, 'altitude_km': 409.64, 'temperature_c': 75.57, 'battery_percent': 90.74}
+[2026-08-07 06:19:03.816254] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063743.81, 'altitude_km': 399.2, 'temperature_c': -3.0, 'battery_percent': 89.54}
+[2026-08-07 06:19:03.817141] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:05.817993] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063745.82, 'altitude_km': 393.14, 'temperature_c': -36.41, 'battery_percent': 88.46}
+[2026-08-07 06:19:05.818487] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:07.821297] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063747.82, 'altitude_km': 401.5, 'temperature_c': 57.08, 'battery_percent': 88.18}
+[2026-08-07 06:19:07.822468] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:09.825883] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063749.82, 'altitude_km': 401.55, 'temperature_c': 32.07, 'battery_percent': 98.3}
+[2026-08-07 06:19:11.828196] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063751.83, 'altitude_km': 401.17, 'temperature_c': -10.66, 'battery_percent': 95.32}
+[2026-08-07 06:19:13.833807] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063753.83, 'altitude_km': 395.95, 'temperature_c': -21.79, 'battery_percent': 89.52}
+[2026-08-07 06:19:13.834506] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:15.837584] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063755.84, 'altitude_km': 400.36, 'temperature_c': -8.09, 'battery_percent': 85.17}
+[2026-08-07 06:19:15.838305] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:17.843952] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063757.84, 'altitude_km': 391.49, 'temperature_c': -25.74, 'battery_percent': 89.79}
+[2026-08-07 06:19:17.844724] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:19.845968] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063759.84, 'altitude_km': 403.35, 'temperature_c': 46.62, 'battery_percent': 96.65}
+[2026-08-07 06:19:21.849580] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063761.85, 'altitude_km': 400.68, 'temperature_c': 34.96, 'battery_percent': 96.72}
+[2026-08-07 06:19:23.852261] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063763.85, 'altitude_km': 402.97, 'temperature_c': 21.61, 'battery_percent': 86.57}
+[2026-08-07 06:19:23.852776] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:25.857966] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063765.86, 'altitude_km': 401.13, 'temperature_c': 65.58, 'battery_percent': 85.34}
+[2026-08-07 06:19:25.858799] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:27.864282] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063767.86, 'altitude_km': 399.97, 'temperature_c': 38.31, 'battery_percent': 93.85}
+[2026-08-07 06:19:29.867989] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063769.87, 'altitude_km': 399.24, 'temperature_c': -16.16, 'battery_percent': 99.78}
+[2026-08-07 06:19:31.874267] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063771.87, 'altitude_km': 403.54, 'temperature_c': 65.81, 'battery_percent': 91.43}
+[2026-08-07 06:19:33.875752] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063773.87, 'altitude_km': 400.8, 'temperature_c': 60.67, 'battery_percent': 95.24}
+[2026-08-07 06:19:35.877852] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063775.88, 'altitude_km': 395.03, 'temperature_c': -44.53, 'battery_percent': 95.16}
+[2026-08-07 06:19:37.884520] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063777.88, 'altitude_km': 401.24, 'temperature_c': -12.94, 'battery_percent': 98.38}
+[2026-08-07 06:19:39.890880] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063779.89, 'altitude_km': 392.85, 'temperature_c': -13.91, 'battery_percent': 89.97}
+[2026-08-07 06:19:39.891660] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:41.895069] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063781.89, 'altitude_km': 403.35, 'temperature_c': 72.34, 'battery_percent': 86.43}
+[2026-08-07 06:19:41.895781] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:43.901159] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063783.9, 'altitude_km': 392.47, 'temperature_c': 15.97, 'battery_percent': 99.64}
+[2026-08-07 06:19:45.904129] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063785.9, 'altitude_km': 396.44, 'temperature_c': -34.62, 'battery_percent': 89.83}
+[2026-08-07 06:19:45.904889] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:19:47.908612] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063787.91, 'altitude_km': 406.86, 'temperature_c': 46.87, 'battery_percent': 98.93}
+[2026-08-07 06:19:49.914966] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063789.91, 'altitude_km': 406.61, 'temperature_c': 73.93, 'battery_percent': 93.43}
+[2026-08-07 06:19:51.918144] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063791.92, 'altitude_km': 403.21, 'temperature_c': 57.92, 'battery_percent': 91.58}
+[2026-08-07 06:19:53.923089] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063793.92, 'altitude_km': 403.15, 'temperature_c': -41.48, 'battery_percent': 96.68}
+[2026-08-07 06:19:55.928608] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063795.93, 'altitude_km': 392.97, 'temperature_c': -29.73, 'battery_percent': 98.48}
+[2026-08-07 06:19:57.933128] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063797.93, 'altitude_km': 395.93, 'temperature_c': 55.68, 'battery_percent': 94.69}
+[2026-08-07 06:19:59.935682] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063799.93, 'altitude_km': 391.96, 'temperature_c': -44.91, 'battery_percent': 92.73}
+[2026-08-07 06:20:01.941522] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063801.94, 'altitude_km': 390.24, 'temperature_c': 51.54, 'battery_percent': 85.07}
+[2026-08-07 06:20:01.942300] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:03.946449] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063803.94, 'altitude_km': 399.24, 'temperature_c': -9.92, 'battery_percent': 95.28}
+[2026-08-07 06:20:05.949560] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063805.95, 'altitude_km': 395.96, 'temperature_c': -46.61, 'battery_percent': 88.79}
+[2026-08-07 06:20:05.949852] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:07.955405] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063807.95, 'altitude_km': 403.53, 'temperature_c': 40.29, 'battery_percent': 95.83}
+[2026-08-07 06:20:09.961111] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063809.96, 'altitude_km': 407.28, 'temperature_c': 73.01, 'battery_percent': 88.47}
+[2026-08-07 06:20:09.961852] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:11.966716] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063811.97, 'altitude_km': 391.73, 'temperature_c': 79.65, 'battery_percent': 89.25}
+[2026-08-07 06:20:11.967274] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:13.973097] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063813.97, 'altitude_km': 409.63, 'temperature_c': 12.76, 'battery_percent': 96.64}
+[2026-08-07 06:20:15.976498] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063815.97, 'altitude_km': 400.94, 'temperature_c': 65.39, 'battery_percent': 92.31}
+[2026-08-07 06:20:17.981910] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063817.98, 'altitude_km': 402.62, 'temperature_c': -18.7, 'battery_percent': 90.33}
+[2026-08-07 06:20:19.988378] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063819.99, 'altitude_km': 407.23, 'temperature_c': 59.36, 'battery_percent': 98.22}
+[2026-08-07 06:20:21.991575] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063821.99, 'altitude_km': 400.73, 'temperature_c': 5.18, 'battery_percent': 91.53}
+[2026-08-07 06:20:23.992596] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063823.99, 'altitude_km': 409.81, 'temperature_c': -8.62, 'battery_percent': 92.23}
+[2026-08-07 06:20:25.999095] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063826.0, 'altitude_km': 409.65, 'temperature_c': 2.52, 'battery_percent': 92.26}
+[2026-08-07 06:20:28.005389] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063828.0, 'altitude_km': 408.51, 'temperature_c': 12.33, 'battery_percent': 98.43}
+[2026-08-07 06:20:30.011874] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063830.01, 'altitude_km': 396.97, 'temperature_c': 12.7, 'battery_percent': 96.01}
+[2026-08-07 06:20:32.021417] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063832.02, 'altitude_km': 407.75, 'temperature_c': 26.6, 'battery_percent': 93.59}
+[2026-08-07 06:20:34.026494] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063834.03, 'altitude_km': 409.0, 'temperature_c': 35.42, 'battery_percent': 87.25}
+[2026-08-07 06:20:34.027065] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:36.034386] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063836.03, 'altitude_km': 401.09, 'temperature_c': 70.38, 'battery_percent': 99.26}
+[2026-08-07 06:20:38.040598] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063838.04, 'altitude_km': 408.25, 'temperature_c': 8.71, 'battery_percent': 99.25}
+[2026-08-07 06:20:40.046839] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063840.05, 'altitude_km': 406.86, 'temperature_c': -26.63, 'battery_percent': 95.3}
+[2026-08-07 06:20:42.054538] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063842.05, 'altitude_km': 404.95, 'temperature_c': -29.14, 'battery_percent': 85.2}
+[2026-08-07 06:20:42.055238] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:44.057614] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063844.06, 'altitude_km': 409.38, 'temperature_c': 24.32, 'battery_percent': 95.48}
+[2026-08-07 06:20:46.059497] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063846.06, 'altitude_km': 392.29, 'temperature_c': -3.4, 'battery_percent': 87.35}
+[2026-08-07 06:20:46.059923] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:48.064586] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063848.06, 'altitude_km': 406.05, 'temperature_c': 72.79, 'battery_percent': 89.13}
+[2026-08-07 06:20:48.065076] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:50.068415] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063850.07, 'altitude_km': 399.84, 'temperature_c': 18.92, 'battery_percent': 96.29}
+[2026-08-07 06:20:52.075565] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063852.07, 'altitude_km': 392.39, 'temperature_c': -27.41, 'battery_percent': 94.6}
+[2026-08-07 06:20:54.080459] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063854.08, 'altitude_km': 399.53, 'temperature_c': -16.37, 'battery_percent': 98.05}
+[2026-08-07 06:20:56.087036] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063856.09, 'altitude_km': 399.28, 'temperature_c': 0.91, 'battery_percent': 89.94}
+[2026-08-07 06:20:56.087725] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:20:58.093087] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063858.09, 'altitude_km': 393.13, 'temperature_c': -4.53, 'battery_percent': 97.1}
+[2026-08-07 06:21:00.096428] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063860.1, 'altitude_km': 403.29, 'temperature_c': -48.36, 'battery_percent': 93.12}
+[2026-08-07 06:21:02.100102] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063862.1, 'altitude_km': 401.53, 'temperature_c': -42.34, 'battery_percent': 97.87}
+[2026-08-07 06:21:04.103807] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063864.1, 'altitude_km': 405.9, 'temperature_c': 57.63, 'battery_percent': 86.54}
+[2026-08-07 06:21:04.104473] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:21:06.109795] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063866.11, 'altitude_km': 395.98, 'temperature_c': 66.31, 'battery_percent': 90.05}
+[2026-08-07 06:21:08.111669] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063868.11, 'altitude_km': 398.2, 'temperature_c': -36.72, 'battery_percent': 98.12}
+[2026-08-07 06:21:10.114422] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063870.11, 'altitude_km': 397.6, 'temperature_c': -13.07, 'battery_percent': 91.35}
+[2026-08-07 06:21:12.116296] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063872.11, 'altitude_km': 395.46, 'temperature_c': 76.37, 'battery_percent': 90.75}
+[2026-08-07 06:21:14.118793] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063874.12, 'altitude_km': 405.52, 'temperature_c': 20.67, 'battery_percent': 89.71}
+[2026-08-07 06:21:14.119517] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:21:16.123505] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063876.12, 'altitude_km': 403.69, 'temperature_c': 60.63, 'battery_percent': 95.21}
+[2026-08-07 06:21:18.129548] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063878.13, 'altitude_km': 395.35, 'temperature_c': 15.86, 'battery_percent': 97.22}
+[2026-08-07 06:21:20.133325] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063880.13, 'altitude_km': 409.64, 'temperature_c': 54.07, 'battery_percent': 89.76}
+[2026-08-07 06:21:20.134061] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:21:22.139729] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063882.14, 'altitude_km': 402.85, 'temperature_c': 76.46, 'battery_percent': 99.34}
+[2026-08-07 06:21:24.146428] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063884.14, 'altitude_km': 403.25, 'temperature_c': -4.71, 'battery_percent': 97.13}
+[2026-08-07 06:21:26.150530] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063886.15, 'altitude_km': 393.94, 'temperature_c': 10.78, 'battery_percent': 99.38}
+[2026-08-07 06:21:28.156926] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063888.16, 'altitude_km': 393.49, 'temperature_c': 71.91, 'battery_percent': 90.76}
+[2026-08-07 06:21:30.158965] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063890.16, 'altitude_km': 390.51, 'temperature_c': -6.96, 'battery_percent': 91.27}
+[2026-08-07 06:21:32.163214] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063892.16, 'altitude_km': 402.97, 'temperature_c': 75.41, 'battery_percent': 97.74}
+[2026-08-07 06:21:34.165138] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063894.16, 'altitude_km': 391.64, 'temperature_c': 66.45, 'battery_percent': 88.95}
+[2026-08-07 06:21:34.165666] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:21:36.170685] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063896.17, 'altitude_km': 401.35, 'temperature_c': -39.8, 'battery_percent': 89.69}
+[2026-08-07 06:21:36.171045] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:21:38.177232] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063898.18, 'altitude_km': 397.14, 'temperature_c': -19.65, 'battery_percent': 94.89}
+[2026-08-07 06:21:40.179604] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063900.18, 'altitude_km': 403.99, 'temperature_c': 44.56, 'battery_percent': 99.6}
+[2026-08-07 06:21:42.185256] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063902.18, 'altitude_km': 401.82, 'temperature_c': 20.53, 'battery_percent': 89.36}
+[2026-08-07 06:21:42.185716] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:21:44.191884] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063904.19, 'altitude_km': 406.4, 'temperature_c': 62.52, 'battery_percent': 98.51}
+[2026-08-07 06:21:46.195326] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063906.19, 'altitude_km': 400.77, 'temperature_c': 42.29, 'battery_percent': 99.9}
+[2026-08-07 06:21:48.198747] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063908.2, 'altitude_km': 405.99, 'temperature_c': 52.68, 'battery_percent': 91.12}
+[2026-08-07 06:21:50.205106] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063910.2, 'altitude_km': 404.1, 'temperature_c': -36.08, 'battery_percent': 97.06}
+[2026-08-07 06:21:52.210763] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063912.21, 'altitude_km': 404.03, 'temperature_c': 51.67, 'battery_percent': 96.33}
+[2026-08-07 06:21:54.214902] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063914.21, 'altitude_km': 394.88, 'temperature_c': -0.1, 'battery_percent': 97.22}
+[2026-08-07 06:21:56.221411] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063916.22, 'altitude_km': 406.65, 'temperature_c': -10.75, 'battery_percent': 99.21}
+[2026-08-07 06:21:58.227167] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063918.23, 'altitude_km': 392.01, 'temperature_c': 78.42, 'battery_percent': 89.19}
+[2026-08-07 06:21:58.227913] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:00.233504] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063920.23, 'altitude_km': 401.25, 'temperature_c': -48.11, 'battery_percent': 96.88}
+[2026-08-07 06:22:02.239885] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063922.24, 'altitude_km': 407.89, 'temperature_c': 14.81, 'battery_percent': 85.25}
+[2026-08-07 06:22:02.240665] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:04.243127] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063924.24, 'altitude_km': 392.41, 'temperature_c': 30.38, 'battery_percent': 85.53}
+[2026-08-07 06:22:04.244044] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:06.245209] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063926.24, 'altitude_km': 392.49, 'temperature_c': 20.22, 'battery_percent': 92.28}
+[2026-08-07 06:22:08.247239] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063928.25, 'altitude_km': 395.42, 'temperature_c': 20.48, 'battery_percent': 91.53}
+[2026-08-07 06:22:10.253390] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063930.25, 'altitude_km': 403.95, 'temperature_c': 14.19, 'battery_percent': 97.63}
+[2026-08-07 06:22:12.260455] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063932.26, 'altitude_km': 401.12, 'temperature_c': 27.82, 'battery_percent': 93.71}
+[2026-08-07 06:22:14.263245] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063934.26, 'altitude_km': 391.79, 'temperature_c': 74.51, 'battery_percent': 97.99}
+[2026-08-07 06:22:16.268777] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063936.27, 'altitude_km': 408.83, 'temperature_c': 47.2, 'battery_percent': 88.14}
+[2026-08-07 06:22:16.269563] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:18.275836] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063938.27, 'altitude_km': 396.13, 'temperature_c': 16.89, 'battery_percent': 90.55}
+[2026-08-07 06:22:20.281522] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063940.28, 'altitude_km': 400.56, 'temperature_c': -10.63, 'battery_percent': 99.38}
+[2026-08-07 06:22:22.285346] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063942.28, 'altitude_km': 397.78, 'temperature_c': 33.59, 'battery_percent': 93.86}
+[2026-08-07 06:22:24.292214] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063944.29, 'altitude_km': 392.24, 'temperature_c': -12.64, 'battery_percent': 86.85}
+[2026-08-07 06:22:24.293015] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:26.297187] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063946.3, 'altitude_km': 408.22, 'temperature_c': 48.62, 'battery_percent': 96.92}
+[2026-08-07 06:22:28.303824] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063948.3, 'altitude_km': 393.69, 'temperature_c': 77.53, 'battery_percent': 91.9}
+[2026-08-07 06:22:30.308278] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063950.31, 'altitude_km': 394.45, 'temperature_c': -21.29, 'battery_percent': 91.1}
+[2026-08-07 06:22:32.309741] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063952.31, 'altitude_km': 403.52, 'temperature_c': -29.45, 'battery_percent': 98.18}
+[2026-08-07 06:22:34.316192] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063954.31, 'altitude_km': 396.09, 'temperature_c': -47.07, 'battery_percent': 94.45}
+[2026-08-07 06:22:36.318707] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063956.32, 'altitude_km': 394.02, 'temperature_c': -18.22, 'battery_percent': 99.13}
+[2026-08-07 06:22:38.325804] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063958.32, 'altitude_km': 398.01, 'temperature_c': 51.53, 'battery_percent': 90.81}
+[2026-08-07 06:22:40.329307] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063960.33, 'altitude_km': 403.23, 'temperature_c': -33.7, 'battery_percent': 96.79}
+[2026-08-07 06:22:42.332357] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063962.33, 'altitude_km': 404.28, 'temperature_c': -37.23, 'battery_percent': 89.06}
+[2026-08-07 06:22:42.333126] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:44.338168] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063964.34, 'altitude_km': 396.94, 'temperature_c': 12.48, 'battery_percent': 97.89}
+[2026-08-07 06:22:46.342854] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063966.34, 'altitude_km': 408.61, 'temperature_c': 69.09, 'battery_percent': 85.72}
+[2026-08-07 06:22:46.343152] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:48.343920] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063968.34, 'altitude_km': 397.38, 'temperature_c': 69.37, 'battery_percent': 85.46}
+[2026-08-07 06:22:48.344635] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:50.345261] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063970.34, 'altitude_km': 395.16, 'temperature_c': -16.09, 'battery_percent': 89.15}
+[2026-08-07 06:22:50.345736] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:52.351223] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063972.35, 'altitude_km': 405.91, 'temperature_c': 15.02, 'battery_percent': 95.44}
+[2026-08-07 06:22:54.352397] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063974.35, 'altitude_km': 397.88, 'temperature_c': -26.76, 'battery_percent': 89.1}
+[2026-08-07 06:22:54.352907] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:22:56.356333] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063976.36, 'altitude_km': 409.01, 'temperature_c': -41.0, 'battery_percent': 93.45}
+[2026-08-07 06:22:58.363029] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063978.36, 'altitude_km': 409.19, 'temperature_c': -30.87, 'battery_percent': 87.56}
+[2026-08-07 06:22:58.363943] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:00.368246] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063980.37, 'altitude_km': 403.86, 'temperature_c': 61.18, 'battery_percent': 88.61}
+[2026-08-07 06:23:00.369268] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:02.374664] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063982.37, 'altitude_km': 401.52, 'temperature_c': 14.95, 'battery_percent': 90.53}
+[2026-08-07 06:23:04.379362] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063984.38, 'altitude_km': 395.75, 'temperature_c': 22.91, 'battery_percent': 96.38}
+[2026-08-07 06:23:06.380767] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063986.38, 'altitude_km': 391.06, 'temperature_c': 7.71, 'battery_percent': 92.48}
+[2026-08-07 06:23:08.382402] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063988.38, 'altitude_km': 396.29, 'temperature_c': -2.46, 'battery_percent': 96.94}
+[2026-08-07 06:23:10.388774] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063990.39, 'altitude_km': 405.02, 'temperature_c': -9.27, 'battery_percent': 90.91}
+[2026-08-07 06:23:12.394214] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063992.39, 'altitude_km': 395.56, 'temperature_c': 20.27, 'battery_percent': 97.1}
+[2026-08-07 06:23:14.398238] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063994.4, 'altitude_km': 390.18, 'temperature_c': -31.81, 'battery_percent': 98.94}
+[2026-08-07 06:23:16.403753] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063996.4, 'altitude_km': 399.91, 'temperature_c': 25.34, 'battery_percent': 96.27}
+[2026-08-07 06:23:18.408054] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786063998.41, 'altitude_km': 408.97, 'temperature_c': 76.58, 'battery_percent': 92.01}
+[2026-08-07 06:23:20.413783] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064000.41, 'altitude_km': 396.74, 'temperature_c': 59.93, 'battery_percent': 94.55}
+[2026-08-07 06:23:22.419256] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064002.42, 'altitude_km': 398.56, 'temperature_c': 53.31, 'battery_percent': 95.73}
+[2026-08-07 06:23:24.424879] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064004.42, 'altitude_km': 394.67, 'temperature_c': 60.74, 'battery_percent': 89.33}
+[2026-08-07 06:23:24.425880] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:26.426451] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064006.42, 'altitude_km': 405.84, 'temperature_c': 71.45, 'battery_percent': 88.5}
+[2026-08-07 06:23:26.427178] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:28.428552] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064008.43, 'altitude_km': 401.08, 'temperature_c': -8.99, 'battery_percent': 97.96}
+[2026-08-07 06:23:30.434927] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064010.43, 'altitude_km': 403.24, 'temperature_c': -14.49, 'battery_percent': 86.83}
+[2026-08-07 06:23:30.435700] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:32.441242] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064012.44, 'altitude_km': 403.22, 'temperature_c': 70.51, 'battery_percent': 85.26}
+[2026-08-07 06:23:32.441984] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:34.447597] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064014.45, 'altitude_km': 393.87, 'temperature_c': 39.94, 'battery_percent': 85.15}
+[2026-08-07 06:23:34.448301] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:36.452638] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064016.45, 'altitude_km': 406.22, 'temperature_c': 36.45, 'battery_percent': 95.1}
+[2026-08-07 06:23:38.458909] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064018.46, 'altitude_km': 406.28, 'temperature_c': -44.85, 'battery_percent': 97.13}
+[2026-08-07 06:23:40.461898] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064020.46, 'altitude_km': 399.99, 'temperature_c': -10.34, 'battery_percent': 88.94}
+[2026-08-07 06:23:40.462714] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:42.468220] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064022.47, 'altitude_km': 409.81, 'temperature_c': 56.99, 'battery_percent': 87.24}
+[2026-08-07 06:23:42.468985] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:44.474543] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064024.47, 'altitude_km': 403.38, 'temperature_c': 9.31, 'battery_percent': 95.49}
+[2026-08-07 06:23:46.477366] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064026.48, 'altitude_km': 401.02, 'temperature_c': -1.77, 'battery_percent': 85.39}
+[2026-08-07 06:23:46.478041] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:48.483657] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064028.48, 'altitude_km': 391.33, 'temperature_c': 14.73, 'battery_percent': 94.65}
+[2026-08-07 06:23:50.487689] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064030.49, 'altitude_km': 394.48, 'temperature_c': 48.52, 'battery_percent': 99.47}
+[2026-08-07 06:23:52.492375] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064032.49, 'altitude_km': 399.57, 'temperature_c': 24.71, 'battery_percent': 85.85}
+[2026-08-07 06:23:52.493165] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:23:54.498687] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064034.5, 'altitude_km': 400.72, 'temperature_c': 78.75, 'battery_percent': 94.31}
+[2026-08-07 06:23:56.502811] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064036.5, 'altitude_km': 398.95, 'temperature_c': 3.31, 'battery_percent': 96.35}
+[2026-08-07 06:23:58.507827] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064038.51, 'altitude_km': 398.31, 'temperature_c': 67.82, 'battery_percent': 99.12}
+[2026-08-07 06:24:00.511740] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064040.51, 'altitude_km': 396.3, 'temperature_c': 16.73, 'battery_percent': 94.47}
+[2026-08-07 06:24:02.516061] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064042.51, 'altitude_km': 398.42, 'temperature_c': 78.25, 'battery_percent': 97.53}
+[2026-08-07 06:24:04.519724] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064044.52, 'altitude_km': 401.08, 'temperature_c': 12.13, 'battery_percent': 97.67}
+[2026-08-07 06:24:06.525453] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064046.52, 'altitude_km': 392.97, 'temperature_c': -43.06, 'battery_percent': 87.18}
+[2026-08-07 06:24:06.525764] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:08.531122] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064048.53, 'altitude_km': 399.04, 'temperature_c': 43.83, 'battery_percent': 99.97}
+[2026-08-07 06:24:10.536990] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064050.54, 'altitude_km': 392.1, 'temperature_c': 31.03, 'battery_percent': 87.41}
+[2026-08-07 06:24:10.537885] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:12.543904] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064052.54, 'altitude_km': 390.22, 'temperature_c': 52.42, 'battery_percent': 88.6}
+[2026-08-07 06:24:12.545452] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:14.546275] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064054.54, 'altitude_km': 400.26, 'temperature_c': -41.26, 'battery_percent': 86.77}
+[2026-08-07 06:24:14.547022] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:16.549322] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064056.55, 'altitude_km': 400.88, 'temperature_c': -44.27, 'battery_percent': 94.53}
+[2026-08-07 06:24:18.555210] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064058.55, 'altitude_km': 403.03, 'temperature_c': -29.2, 'battery_percent': 92.58}
+[2026-08-07 06:24:20.561086] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064060.56, 'altitude_km': 392.42, 'temperature_c': 9.25, 'battery_percent': 94.12}
+[2026-08-07 06:24:22.566795] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064062.57, 'altitude_km': 395.88, 'temperature_c': -17.25, 'battery_percent': 90.98}
+[2026-08-07 06:24:24.573098] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064064.57, 'altitude_km': 391.4, 'temperature_c': -40.5, 'battery_percent': 90.81}
+[2026-08-07 06:24:26.577965] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064066.58, 'altitude_km': 393.3, 'temperature_c': 25.68, 'battery_percent': 97.87}
+[2026-08-07 06:24:28.580309] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064068.58, 'altitude_km': 403.24, 'temperature_c': -18.71, 'battery_percent': 96.61}
+[2026-08-07 06:24:30.586555] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064070.58, 'altitude_km': 406.03, 'temperature_c': -29.0, 'battery_percent': 92.44}
+[2026-08-07 06:24:32.591973] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064072.59, 'altitude_km': 396.17, 'temperature_c': 28.66, 'battery_percent': 85.38}
+[2026-08-07 06:24:32.592723] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:34.597310] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064074.6, 'altitude_km': 392.81, 'temperature_c': 38.79, 'battery_percent': 98.83}
+[2026-08-07 06:24:36.603448] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064076.6, 'altitude_km': 407.38, 'temperature_c': 14.71, 'battery_percent': 87.96}
+[2026-08-07 06:24:36.604379] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:38.609757] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064078.61, 'altitude_km': 394.23, 'temperature_c': 33.25, 'battery_percent': 86.22}
+[2026-08-07 06:24:38.610652] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:40.615631] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064080.61, 'altitude_km': 402.66, 'temperature_c': -22.93, 'battery_percent': 85.24}
+[2026-08-07 06:24:40.616407] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:24:42.621661] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064082.62, 'altitude_km': 397.88, 'temperature_c': -2.09, 'battery_percent': 93.82}
+[2026-08-07 06:24:44.628045] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064084.63, 'altitude_km': 406.64, 'temperature_c': 29.94, 'battery_percent': 91.78}
+[2026-08-07 06:24:46.628603] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064086.63, 'altitude_km': 408.99, 'temperature_c': 32.69, 'battery_percent': 94.86}
+[2026-08-07 06:24:48.634286] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064088.63, 'altitude_km': 395.0, 'temperature_c': -13.97, 'battery_percent': 97.55}
+[2026-08-07 06:24:50.640695] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064090.64, 'altitude_km': 397.35, 'temperature_c': -44.81, 'battery_percent': 99.1}
+[2026-08-07 06:24:52.645059] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064092.64, 'altitude_km': 392.47, 'temperature_c': 24.14, 'battery_percent': 90.37}
+[2026-08-07 06:24:54.651625] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064094.65, 'altitude_km': 397.93, 'temperature_c': -13.47, 'battery_percent': 97.88}
+[2026-08-07 06:24:56.654240] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064096.65, 'altitude_km': 394.56, 'temperature_c': 9.15, 'battery_percent': 93.04}
+[2026-08-07 06:24:58.656990] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064098.66, 'altitude_km': 401.85, 'temperature_c': 33.05, 'battery_percent': 94.02}
+[2026-08-07 06:25:00.663463] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064100.66, 'altitude_km': 405.81, 'temperature_c': 28.85, 'battery_percent': 95.94}
+[2026-08-07 06:25:02.666877] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064102.67, 'altitude_km': 405.9, 'temperature_c': -41.19, 'battery_percent': 95.09}
+[2026-08-07 06:25:04.672441] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064104.67, 'altitude_km': 403.25, 'temperature_c': 60.29, 'battery_percent': 92.61}
+[2026-08-07 06:25:06.679338] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064106.68, 'altitude_km': 400.11, 'temperature_c': 27.29, 'battery_percent': 95.88}
+[2026-08-07 06:25:08.685613] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064108.68, 'altitude_km': 406.86, 'temperature_c': -27.02, 'battery_percent': 95.08}
+[2026-08-07 06:25:10.691998] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064110.69, 'altitude_km': 396.46, 'temperature_c': -32.44, 'battery_percent': 97.09}
+[2026-08-07 06:25:12.696549] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064112.7, 'altitude_km': 403.06, 'temperature_c': 8.43, 'battery_percent': 86.45}
+[2026-08-07 06:25:12.696875] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:14.703521] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064114.7, 'altitude_km': 395.33, 'temperature_c': 74.31, 'battery_percent': 85.91}
+[2026-08-07 06:25:14.704897] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:16.708261] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064116.71, 'altitude_km': 404.27, 'temperature_c': -10.64, 'battery_percent': 99.96}
+[2026-08-07 06:25:18.709386] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064118.71, 'altitude_km': 390.83, 'temperature_c': 38.86, 'battery_percent': 94.88}
+[2026-08-07 06:25:20.715492] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064120.71, 'altitude_km': 399.89, 'temperature_c': 34.39, 'battery_percent': 98.33}
+[2026-08-07 06:25:22.719200] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064122.72, 'altitude_km': 409.71, 'temperature_c': 33.81, 'battery_percent': 99.29}
+[2026-08-07 06:25:24.725747] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064124.72, 'altitude_km': 404.94, 'temperature_c': 50.81, 'battery_percent': 99.83}
+[2026-08-07 06:25:26.727395] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064126.73, 'altitude_km': 409.66, 'temperature_c': 43.15, 'battery_percent': 88.76}
+[2026-08-07 06:25:26.728015] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:28.729182] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064128.73, 'altitude_km': 404.79, 'temperature_c': 15.01, 'battery_percent': 88.0}
+[2026-08-07 06:25:28.729549] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:30.734930] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064130.73, 'altitude_km': 404.31, 'temperature_c': 62.53, 'battery_percent': 87.89}
+[2026-08-07 06:25:30.735686] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:32.740575] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064132.74, 'altitude_km': 406.34, 'temperature_c': 15.43, 'battery_percent': 86.03}
+[2026-08-07 06:25:32.741248] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:34.742818] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064134.74, 'altitude_km': 403.03, 'temperature_c': -33.44, 'battery_percent': 85.62}
+[2026-08-07 06:25:34.743883] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:36.748001] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064136.75, 'altitude_km': 404.94, 'temperature_c': 8.38, 'battery_percent': 91.27}
+[2026-08-07 06:25:38.754701] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064138.75, 'altitude_km': 408.25, 'temperature_c': 56.39, 'battery_percent': 89.48}
+[2026-08-07 06:25:38.755567] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:40.761006] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064140.76, 'altitude_km': 403.0, 'temperature_c': -8.63, 'battery_percent': 96.41}
+[2026-08-07 06:25:42.763055] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064142.76, 'altitude_km': 398.54, 'temperature_c': -27.71, 'battery_percent': 91.15}
+[2026-08-07 06:25:44.766075] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064144.76, 'altitude_km': 401.65, 'temperature_c': 57.41, 'battery_percent': 85.96}
+[2026-08-07 06:25:44.766952] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:46.769317] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064146.77, 'altitude_km': 409.23, 'temperature_c': -21.63, 'battery_percent': 94.99}
+[2026-08-07 06:25:48.771992] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064148.77, 'altitude_km': 407.85, 'temperature_c': 74.52, 'battery_percent': 93.81}
+[2026-08-07 06:25:50.774425] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064150.77, 'altitude_km': 409.4, 'temperature_c': 56.06, 'battery_percent': 94.27}
+[2026-08-07 06:25:52.778625] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064152.78, 'altitude_km': 399.7, 'temperature_c': -44.02, 'battery_percent': 85.35}
+[2026-08-07 06:25:52.779351] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:25:54.782575] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064154.78, 'altitude_km': 395.88, 'temperature_c': 14.25, 'battery_percent': 95.14}
+[2026-08-07 06:25:56.787571] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064156.79, 'altitude_km': 390.1, 'temperature_c': 68.81, 'battery_percent': 96.99}
+[2026-08-07 06:25:58.793196] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064158.79, 'altitude_km': 401.95, 'temperature_c': -5.55, 'battery_percent': 87.16}
+[2026-08-07 06:25:58.794073] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:00.794899] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064160.79, 'altitude_km': 392.87, 'temperature_c': 57.64, 'battery_percent': 94.86}
+[2026-08-07 06:26:02.801217] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064162.8, 'altitude_km': 402.76, 'temperature_c': -24.77, 'battery_percent': 88.59}
+[2026-08-07 06:26:02.802125] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:04.803829] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064164.8, 'altitude_km': 393.9, 'temperature_c': 46.21, 'battery_percent': 89.72}
+[2026-08-07 06:26:04.804906] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:06.810137] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064166.81, 'altitude_km': 407.18, 'temperature_c': 10.2, 'battery_percent': 89.02}
+[2026-08-07 06:26:06.811200] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:08.813251] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064168.81, 'altitude_km': 398.27, 'temperature_c': 59.17, 'battery_percent': 96.87}
+[2026-08-07 06:26:10.818781] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064170.82, 'altitude_km': 406.5, 'temperature_c': 40.15, 'battery_percent': 97.74}
+[2026-08-07 06:26:12.819760] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064172.82, 'altitude_km': 404.87, 'temperature_c': 77.32, 'battery_percent': 85.46}
+[2026-08-07 06:26:12.820239] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:14.821773] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064174.82, 'altitude_km': 398.51, 'temperature_c': 22.4, 'battery_percent': 90.58}
+[2026-08-07 06:26:16.828180] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064176.83, 'altitude_km': 402.0, 'temperature_c': -42.3, 'battery_percent': 96.89}
+[2026-08-07 06:26:18.831340] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064178.83, 'altitude_km': 409.79, 'temperature_c': 45.9, 'battery_percent': 95.68}
+[2026-08-07 06:26:20.836180] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064180.83, 'altitude_km': 390.38, 'temperature_c': 7.42, 'battery_percent': 90.06}
+[2026-08-07 06:26:22.842470] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064182.84, 'altitude_km': 394.14, 'temperature_c': 14.12, 'battery_percent': 97.85}
+[2026-08-07 06:26:24.848631] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064184.85, 'altitude_km': 397.72, 'temperature_c': -41.39, 'battery_percent': 92.72}
+[2026-08-07 06:26:26.852122] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064186.85, 'altitude_km': 400.85, 'temperature_c': 53.22, 'battery_percent': 85.65}
+[2026-08-07 06:26:26.852940] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:28.856684] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064188.86, 'altitude_km': 409.84, 'temperature_c': 60.09, 'battery_percent': 92.04}
+[2026-08-07 06:26:30.860258] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064190.86, 'altitude_km': 397.57, 'temperature_c': 35.9, 'battery_percent': 95.06}
+[2026-08-07 06:26:32.862685] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064192.86, 'altitude_km': 401.98, 'temperature_c': 23.98, 'battery_percent': 87.05}
+[2026-08-07 06:26:32.863570] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:34.868746] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064194.87, 'altitude_km': 393.07, 'temperature_c': 9.72, 'battery_percent': 90.98}
+[2026-08-07 06:26:36.875044] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064196.87, 'altitude_km': 390.44, 'temperature_c': -11.25, 'battery_percent': 87.26}
+[2026-08-07 06:26:36.875807] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:38.878493] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064198.88, 'altitude_km': 392.6, 'temperature_c': -27.85, 'battery_percent': 93.58}
+[2026-08-07 06:26:40.881025] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064200.88, 'altitude_km': 404.78, 'temperature_c': -41.35, 'battery_percent': 96.03}
+[2026-08-07 06:26:42.887841] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064202.89, 'altitude_km': 401.87, 'temperature_c': 17.88, 'battery_percent': 87.56}
+[2026-08-07 06:26:42.888879] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:26:44.892301] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064204.89, 'altitude_km': 394.87, 'temperature_c': 58.24, 'battery_percent': 99.8}
+[2026-08-07 06:26:46.897110] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064206.9, 'altitude_km': 393.59, 'temperature_c': -14.56, 'battery_percent': 92.65}
+[2026-08-07 06:26:48.899571] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064208.9, 'altitude_km': 404.13, 'temperature_c': -20.64, 'battery_percent': 98.7}
+[2026-08-07 06:26:50.901915] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064210.9, 'altitude_km': 392.75, 'temperature_c': 20.05, 'battery_percent': 99.05}
+[2026-08-07 06:26:52.904593] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064212.9, 'altitude_km': 400.44, 'temperature_c': -49.94, 'battery_percent': 91.55}
+[2026-08-07 06:26:54.911019] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064214.91, 'altitude_km': 391.81, 'temperature_c': 0.56, 'battery_percent': 92.99}
+[2026-08-07 06:26:56.917156] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064216.92, 'altitude_km': 400.79, 'temperature_c': 64.41, 'battery_percent': 95.06}
+[2026-08-07 06:26:58.919831] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064218.92, 'altitude_km': 393.25, 'temperature_c': 36.68, 'battery_percent': 96.95}
+[2026-08-07 06:27:00.925316] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064220.92, 'altitude_km': 392.65, 'temperature_c': -19.58, 'battery_percent': 95.69}
+[2026-08-07 06:27:02.928491] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064222.93, 'altitude_km': 398.22, 'temperature_c': 77.64, 'battery_percent': 93.05}
+[2026-08-07 06:27:04.934692] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064224.93, 'altitude_km': 400.11, 'temperature_c': 32.96, 'battery_percent': 96.6}
+[2026-08-07 06:27:06.941113] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064226.94, 'altitude_km': 395.93, 'temperature_c': -1.93, 'battery_percent': 97.21}
+[2026-08-07 06:27:08.944283] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064228.94, 'altitude_km': 398.64, 'temperature_c': -22.74, 'battery_percent': 89.09}
+[2026-08-07 06:27:08.944971] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:10.949893] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064230.95, 'altitude_km': 392.59, 'temperature_c': -48.25, 'battery_percent': 98.92}
+[2026-08-07 06:27:12.952402] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064232.95, 'altitude_km': 402.48, 'temperature_c': 56.2, 'battery_percent': 92.86}
+[2026-08-07 06:27:14.956616] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064234.96, 'altitude_km': 392.96, 'temperature_c': -31.13, 'battery_percent': 97.26}
+[2026-08-07 06:27:16.958337] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064236.96, 'altitude_km': 394.53, 'temperature_c': -17.56, 'battery_percent': 98.87}
+[2026-08-07 06:27:18.961509] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064238.96, 'altitude_km': 394.04, 'temperature_c': -43.58, 'battery_percent': 90.44}
+[2026-08-07 06:27:20.966877] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064240.97, 'altitude_km': 403.24, 'temperature_c': 76.25, 'battery_percent': 98.63}
+[2026-08-07 06:27:22.972643] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064242.97, 'altitude_km': 409.08, 'temperature_c': 69.48, 'battery_percent': 89.56}
+[2026-08-07 06:27:22.973477] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:24.979719] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064244.98, 'altitude_km': 405.65, 'temperature_c': -37.84, 'battery_percent': 91.98}
+[2026-08-07 06:27:26.981367] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064246.98, 'altitude_km': 396.5, 'temperature_c': -18.9, 'battery_percent': 86.73}
+[2026-08-07 06:27:26.982149] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:28.985408] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064248.98, 'altitude_km': 398.29, 'temperature_c': -49.62, 'battery_percent': 85.44}
+[2026-08-07 06:27:28.985919] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:30.987193] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064250.99, 'altitude_km': 407.43, 'temperature_c': -17.94, 'battery_percent': 97.6}
+[2026-08-07 06:27:32.990126] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064252.99, 'altitude_km': 395.71, 'temperature_c': -49.32, 'battery_percent': 85.1}
+[2026-08-07 06:27:32.990937] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:34.995940] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064254.99, 'altitude_km': 397.75, 'temperature_c': 0.93, 'battery_percent': 93.21}
+[2026-08-07 06:27:37.002346] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064257.0, 'altitude_km': 401.63, 'temperature_c': 10.12, 'battery_percent': 85.99}
+[2026-08-07 06:27:37.003162] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:39.002764] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064259.0, 'altitude_km': 402.11, 'temperature_c': -19.82, 'battery_percent': 93.58}
+[2026-08-07 06:27:41.009442] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064261.01, 'altitude_km': 395.14, 'temperature_c': 75.8, 'battery_percent': 89.51}
+[2026-08-07 06:27:41.010253] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:43.013676] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064263.01, 'altitude_km': 408.83, 'temperature_c': 21.62, 'battery_percent': 86.83}
+[2026-08-07 06:27:43.014516] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:45.017789] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064265.02, 'altitude_km': 405.34, 'temperature_c': 17.85, 'battery_percent': 85.73}
+[2026-08-07 06:27:45.018442] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:47.024312] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064267.02, 'altitude_km': 397.44, 'temperature_c': 47.45, 'battery_percent': 92.07}
+[2026-08-07 06:27:49.030500] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064269.03, 'altitude_km': 407.41, 'temperature_c': 14.8, 'battery_percent': 99.53}
+[2026-08-07 06:27:51.036502] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064271.03, 'altitude_km': 399.41, 'temperature_c': 0.39, 'battery_percent': 99.69}
+[2026-08-07 06:27:53.041852] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064273.04, 'altitude_km': 396.13, 'temperature_c': -23.82, 'battery_percent': 97.08}
+[2026-08-07 06:27:55.046553] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064275.04, 'altitude_km': 399.37, 'temperature_c': 64.68, 'battery_percent': 86.36}
+[2026-08-07 06:27:55.049452] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:27:57.047980] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064277.05, 'altitude_km': 404.18, 'temperature_c': 47.75, 'battery_percent': 93.83}
+[2026-08-07 06:27:59.054331] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064279.05, 'altitude_km': 395.05, 'temperature_c': 9.4, 'battery_percent': 96.72}
+[2026-08-07 06:28:01.060643] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064281.06, 'altitude_km': 396.66, 'temperature_c': 58.3, 'battery_percent': 92.35}
+[2026-08-07 06:28:03.067003] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064283.07, 'altitude_km': 393.08, 'temperature_c': -40.85, 'battery_percent': 93.03}
+[2026-08-07 06:28:05.071359] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064285.07, 'altitude_km': 405.21, 'temperature_c': 22.43, 'battery_percent': 85.38}
+[2026-08-07 06:28:05.072250] ALARM: BATTERY DROP DETECTED!
+[2026-08-07 06:28:07.075835] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064287.07, 'altitude_km': 394.49, 'temperature_c': 23.63, 'battery_percent': 97.23}
+[2026-08-07 06:28:09.078278] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064289.08, 'altitude_km': 393.91, 'temperature_c': 74.31, 'battery_percent': 92.74}
+[2026-08-07 06:28:11.080195] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064291.08, 'altitude_km': 408.63, 'temperature_c': 63.41, 'battery_percent': 91.29}
+[2026-08-07 06:28:13.082372] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064293.08, 'altitude_km': 402.48, 'temperature_c': -46.16, 'battery_percent': 98.09}
+[2026-08-07 06:28:15.084288] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064295.08, 'altitude_km': 407.12, 'temperature_c': 23.35, 'battery_percent': 90.67}
+[2026-08-07 06:28:17.090851] {'satellite_id': 'KAVACH-SAT-01', 'timestamp': 1786064297.09, 'altitude_km': 397.84, 'temperature_c': -35.13, 'battery_percent': 99.52}
